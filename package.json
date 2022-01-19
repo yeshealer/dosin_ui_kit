@@ -1,6 +1,6 @@
 {
-  "name": "intro-storybook-react-template",
-  "version": "0.1.0",
+  "name": "dosin_ui_kit",
+  "version": "1.0.0",
   "description": "Starter template to get up and running quickly with React and Storybook",
   "author": "Chromatic <https://chromatic.com/>",
   "repository": {
@@ -11,7 +11,6 @@
     "url": "https://github.com/chromaui/intro-storybook-react-template/issues"
   },
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
